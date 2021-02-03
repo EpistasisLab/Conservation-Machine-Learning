@@ -1,4 +1,4 @@
-# ​Conservation Random Forests using Lexigarden
+# ​Conservation Random Forests
 # © 2021 moshe sipper
 # www.moshesipper.com
 
