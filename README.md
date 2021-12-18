@@ -6,7 +6,7 @@ Papers are available through [Moshe Sipper's website](http://www.moshesipper.com
 
 * `crf.py`: The code accompanying the paper, M. Sipper and J. H. Moore, "Conservation Machine Learning: A Case Study of Random Forests", _Nature Scientific Reports_, 2021. 
 
-If you wish to cite the papers:
+If you wish to cite this work:
 ```
 @article{sipper2021conservation,
   title={Conservation machine learning: a case study of random forests},
