@@ -1,10 +1,8 @@
 # Conservation Machine Learning
 
-Papers are available through [Moshe Sipper's website](http://www.moshesipper.com/).
+* `cml-bdm.py`: The code accompanying the paper: [M. Sipper and J. H. Moore, "Conservation Machine Learning", _BioData Mining_, 2020](https://biodatamining.biomedcentral.com/articles/10.1186/s13040-020-00220-z). 
 
-* `cml-bdm.py`: The code accompanying the paper, M. Sipper and J. H. Moore, "Conservation Machine Learning", _BioData Mining_, 2020. 
-
-* `crf.py`: The code accompanying the paper, M. Sipper and J. H. Moore, "Conservation Machine Learning: A Case Study of Random Forests", _Nature Scientific Reports_, 2021. 
+* `crf.py`: The code accompanying the paper: [M. Sipper and J. H. Moore, "Conservation Machine Learning: A Case Study of Random Forests", _Nature Scientific Reports_, 2021](https://www.nature.com/articles/s41598-021-83247-4). 
 
 If you wish to cite this work:
 ```
